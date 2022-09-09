@@ -29,12 +29,12 @@ Here are some ideas to get you started:
  - 📱 Mobile Development: Have developed, tested and deployed Android projects for Google Play Market. Have an experience of testing IOS applications. 
  
  ***
- ### Some of my stats 🎯
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inklementia&show_icons=true&locale=en&layout=compact&theme=vue" alt="inklementia" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inklementia&show_icons=true&locale=en&theme=vue" alt="inklementia" /></p>
+ ## Some of my stats 🎯
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inklementia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inklementia&theme=vue" alt="inklementia" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=inklementia&show_icons=true&count_private=true&theme=vue)
 
- ### ✨ Connect with me!
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=inklementia&theme=vue)
+
+ ## ✨ Connect with me!
 to be added
