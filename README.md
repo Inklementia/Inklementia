@@ -1,6 +1,6 @@
 ### Hello, my beautiful weebs 👋
+Profile views: <p align="left"> <img src="https://komarev.com/ghpvc/?username=inklementia&label=Profile%20views&color=0e75b6&style=flat" alt="inklementia" /> </p>
 I am Inna and and I am a BS undergraduate.
-
 
 <!--
 **Inklementia/Inklementia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I think I am funny, haha, also I love drawing, video games and can make cupcakes 🧁!
 
  ***
- ## Experience 
+ ### Experience 
  - 🎮 Game Development: Over a year of working with Unity game engine.
  - 🏞️ Web Development: Designed and built cross-platform themes, deployed websites with Wordpress and October CMS. Great with Tilewind CSS, JS and jQuery. Worked with Laravel and ASP.NET Core/Framework. 
  - ✏️ Art: Participated in creation of Uzbek Comics and Manga with the support of Tourism Ministry. Passionate about art style in any media. Designed and created 2D assets and animations for my game projects. 
  - 📱 Mobile Development: Have developed, tested and deployed Android projects for Google Play Market. Have an experience of testing IOS applications. 
  
  ***
- ## Some of my stats 🎯
+ ### Some of my stats 🎯
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inklementia&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=inklementia&show_icons=true&count_private=true&theme=vue)
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=inklementia&theme=vue)
 
- ## ✨ Connect with me!
+ ### ✨ Connect with me!
 to be added
