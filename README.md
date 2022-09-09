@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  ***
  ### Some of my stats 🎯
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inklementia&show_icons=true&locale=en&layout=compact&theme=vue" alt="inklementia" /></p>
-&nbsp;
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inklementia&show_icons=true&locale=en&theme=vue" alt="inklementia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inklementia&theme=vue" alt="inklementia" /></p>
