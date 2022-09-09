@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m actively learning about Game Development and looking for a part-time job as a Unity Developer.
 - 👨‍💻 All of my web projects are available at [inklementia.uz](https://inklementia.uz) (russian)
 - ✨ Goals: Collaborate and work on various Open Source projects, and learn more about Game Design and Game Development.
-- 📝 I regularly write articles on [Random things](https://t.me/inklementia_writes) (russian)
-- 📫 How to reach me **inna2001.a@gmail.com or [@inklementia](https://t.me/inklementia)** 
 - ⚡ Fun fact: I think I am funny, haha, also I love drawing, video games and cupcakes 🧁!
 
  ***
