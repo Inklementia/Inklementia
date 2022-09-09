@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a Flutter Developer.
+- 🔭 I’m currently working as a Flutter Developer - [Gapyo](https://apps.apple.com/uz/app/gapyo/id1626463243)  mobile application
 - 🌱 I’m actively learning about Game Development and looking for a part-time job as a Unity Developer.
-- ✨ Goals: Collaborate and work on various Open Source projects, and learn more about Game Design and Game Development
-- ⚡ Fun fact: I think I am funny, haha, also I love drawing, video games and can make cupcakes 🧁!
+- 👨‍💻 All of my web projects are available at [inklementia.uz](https://inklementia.uz) (russian)
+- ✨ Goals: Collaborate and work on various Open Source projects, and learn more about Game Design and Game Development.
+- 📝 I regularly write articles on [Random things](https://t.me/inklementia_writes) (russian)
+- 📫 How to reach me **inna2001.a@gmail.com or [@inklementia](https://t.me/inklementia)** 
+- ⚡ Fun fact: I think I am funny, haha, also I love drawing, video games and cupcakes 🧁!
 
  ***
+
  ### Experience 
  - 🎮 Game Development: Over a year of working with Unity game engine.
  - 🏞️ Web Development: Designed and built cross-platform themes, deployed websites with Wordpress and October CMS. Great with Tilewind CSS, JS and jQuery. Worked with Laravel and ASP.NET Core/Framework. 
