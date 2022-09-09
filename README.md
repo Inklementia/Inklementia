@@ -1,5 +1,5 @@
 ### Hello, my beautiful weebs 👋
-Profile views: <p align="left"> <img src="https://komarev.com/ghpvc/?username=inklementia&label=Profile%20views&color=0e75b6&style=flat" alt="inklementia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inklementia&label=Profile%20views&color=0e75b6&style=flat" alt="inklementia" /> </p>
 I am Inna and and I am a BS undergraduate.
 
 <!--
