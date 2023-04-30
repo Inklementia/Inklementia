@@ -21,7 +21,7 @@ I am Inna and and I am a BS graduate.
  - 🎮 **Game Development** - Over a year of working with Unity game engine.
  - 🏞️ **Web Development** - Designed and built cross-platform themes, deployed websites with Wordpress and October CMS. Great with Tilewind CSS, JS and jQuery. Worked with Laravel and ASP.NET Core/Framework. 
  - ✏️ **Art** - Participated in creation of Uzbek Comics and Manga with the support of Tourism Ministry. Passionate about art style in any media. Designed and created 2D assets and animations for my game projects. Good with pixel and 2D art.
- - 📱 **Mobile Development** - Have developed, tested and deployed Android and IOS projects for Google Play Market andf App Store. 
+ - 📱 **Mobile Development** - Have developed, tested and deployed Android and IOS projects for Google Play Market and App Store. 
  
  ***
 
