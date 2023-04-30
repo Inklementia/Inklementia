@@ -7,7 +7,7 @@ I am Inna and and I am a BS graduate.
 - 🌱 I’m actively learning about Game Development and looking for a part-time job as a Unity Developer.
 - 👨‍💻 All of my web projects are available at [inklementia.uz](https://inklementia.uz) (russian)
 - ✨ Goals: Collaborate and work on various Open Source projects, and learn more about Game Design and Game Development.
-- ⚡ Fun fact: I think I am funny... also I love drawing, video games and cupcakes 🧁!
+- ⚡ Fun fact: I think I am funny... and I love drawing, video games and cupcakes 🧁!
 
  ***
  
