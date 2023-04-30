@@ -1,13 +1,13 @@
 ### Hello, my beautiful weebs 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inklementia&label=Profile%20views&color=blue&style=for-the-badge" alt="inklementia" /><a href="https://t.me/inklementia_writes"> <img src="https://img.shields.io/badge/Random%20Things-Blog-2CA5E0?style=for-the-badge" /></a> </p>
 
-I am Inna and and I am a BS undergraduate.
+I am Inna and and I am a BS graduate.
 
-- 🔭 I’m currently working as a Flutter Developer - [Gapyo](https://apps.apple.com/uz/app/gapyo/id1626463243)  mobile application
+- 🔭 I’m currently working as a Flutter Developer - [Gapyo](https://play.google.com/store/apps/details?id=uz.gapyo.mobile) and [Didox](https://play.google.com/store/apps/details?id=uz.didox.mobile)
 - 🌱 I’m actively learning about Game Development and looking for a part-time job as a Unity Developer.
 - 👨‍💻 All of my web projects are available at [inklementia.uz](https://inklementia.uz) (russian)
 - ✨ Goals: Collaborate and work on various Open Source projects, and learn more about Game Design and Game Development.
-- ⚡ Fun fact: I think I am funny, haha, also I love drawing, video games and cupcakes 🧁!
+- ⚡ Fun fact: I think I am funny... also I love drawing, video games and cupcakes 🧁!
 
  ***
  
