@@ -3,7 +3,7 @@
 
 I am Inna and and I am a BS graduate.
 
-- 🔭 I’m currently working as a Flutter Developer - [Gapyo](https://play.google.com/store/apps/details?id=uz.gapyo.mobile) and [Didox](https://play.google.com/store/apps/details?id=uz.didox.mobile)
+- 🔭 I’m currently working as a Flutter Developer - [Sooperwise](https://play.google.com/store/apps/details?id=com.sooperwise.mobile) and [Didox](https://play.google.com/store/apps/details?id=uz.didox.mobile)
 - 🌱 I’m actively learning about Game Development and looking for a part-time job as a Unity Developer.
 - 👨‍💻 All of my web projects are available at [inklementia.uz](https://inklementia.uz) (russian)
 - ✨ Goals: Collaborate and work on various Open Source projects, and learn more about Game Design and Game Development.
