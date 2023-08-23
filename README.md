@@ -1,13 +1,14 @@
 ### Hello, my beautiful weebs 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inklementia&label=Profile%20views&color=blue&style=for-the-badge" alt="inklementia" /><a href="https://t.me/inklementia_writes"> <img src="https://img.shields.io/badge/Random%20Things-Blog-2CA5E0?style=for-the-badge" /></a> </p>
 
-I am Inna and and I am a BS graduate.
+I am Inna and I am a BS graduate.
 
-- 🔭 I’m currently working as a Flutter Developer - [Sooperwise](https://play.google.com/store/apps/details?id=com.sooperwise.mobile) and [Didox](https://play.google.com/store/apps/details?id=uz.didox.mobile)
+- 🔭 I’m currently working as a Mobile Flutter Developer - [Sooperwise](https://play.google.com/store/apps/details?id=com.sooperwise.mobile) and [Didox](https://play.google.com/store/apps/details?id=uz.didox.mobile)
 - 🌱 I’m actively learning about Game Development and looking for a part-time job as a Unity Developer.
-- 👨‍💻 All of my web projects are available at [inklementia.uz](https://inklementia.uz) (russian)
+- 👨‍💻 I love to draw! ...yet rarely post my art projects, but if I do! You can find them on <a href="https://www.instagram.com/inklementia/?hl=en">Instagram</a> and <a href="https://www.behance.net/Inklementia">Behance</a>.
+- 🌐 I used to work as a web developer. All of my web projects are available at [inklementia.uz](https://inklementia.uz) (Russian)
 - ✨ Goals: Collaborate and work on various Open Source projects, and learn more about Game Design and Game Development.
-- ⚡ Fun fact: I think I am funny... and I love drawing, video games and cupcakes 🧁!
+- ⚡ Fun fact: I think I am funny and love video games, and cupcakes 🧁!
 
  ***
  
@@ -19,9 +20,9 @@ I am Inna and and I am a BS graduate.
 
  ### 🐢 Experience 
  - 🎮 **Game Development** - Over a year of working with Unity game engine.
- - 🏞️ **Web Development** - Designed and built cross-platform themes, deployed websites with Wordpress and October CMS. Great with Tilewind CSS, JS and jQuery. Worked with Laravel and ASP.NET Core/Framework. 
- - ✏️ **Art** - Participated in creation of Uzbek Comics and Manga with the support of Tourism Ministry. Passionate about art style in any media. Designed and created 2D assets and animations for my game projects. Good with pixel and 2D art.
- - 📱 **Mobile Development** - Have developed, tested and deployed Android and IOS projects for Google Play Market and App Store. 
+ - 🏞️ **Web Development** - Designed and built cross-platform themes, and deployed websites with WordPress and October CMS. Excellent with Tilewind CSS, JS, and jQuery. Worked with Laravel and ASP.NET Core/Framework. 
+ - ✏️ **Art** - Participated in creating Uzbek Comics and Manga with the support of the Tourism Ministry. Passionate about art style in any media. Designed and created 2D assets and animations for my game projects. Good with pixel and 2D art.
+ - 📱 **Mobile Development** - Have developed, tested, and deployed Android and IOS projects for Google Play Market and App Store. 
  
  ***
 
@@ -40,4 +41,5 @@ I am Inna and and I am a BS graduate.
 <a href="mailto:inna2001.a@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/inklementia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/inklementia/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.behance.net/Inklementia"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a>
 <a href="https://discordapp.com/users/Inklementia#1622"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
