@@ -1,5 +1,5 @@
 ### Hello, my beautiful weebs 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inklementia&label=Profile%20views&color=blue&style=for-the-badge" alt="inklementia" /><a href="https://t.me/inklementia_writes"> <img src="https://img.shields.io/badge/Random%20Things-Blog-2CA5E0?style=for-the-badge" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inklementia&label=Profile%20views&color=blue&style=for-the-badge" alt="inklementia" /><a href="https://t.me/inklementia_writes"> <img src="https://img.shields.io/badge/Inklementia%20Writes-Blog-2CA5E0?style=for-the-badge" /></a> </p>
 
 I am Inna and I am a BS graduate.
 
