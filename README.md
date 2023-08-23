@@ -5,7 +5,7 @@ I am Inna and I am a BS graduate.
 
 - 🔭 I’m currently working as a Mobile Flutter Developer - [Sooperwise](https://play.google.com/store/apps/details?id=com.sooperwise.mobile) and [Didox](https://play.google.com/store/apps/details?id=uz.didox.mobile)
 - 🌱 I’m actively learning about Game Development and looking for a part-time job as a Unity Developer.
-- 👨‍💻 I love to draw! ...yet rarely post my art projects, but if I do! You can find them on <a href="https://www.instagram.com/inklementia/?hl=en">Instagram</a> and <a href="https://www.behance.net/Inklementia">Behance</a>.
+- 🖍 Love to draw! ...yet rarely post my art projects, but if I do! You can find them on <a href="https://www.instagram.com/inklementia/?hl=en">Instagram</a> and <a href="https://www.behance.net/Inklementia">Behance</a>.
 - 🌐 I used to work as a web developer. All of my web projects are available at [inklementia.uz](https://inklementia.uz) (Russian)
 - ✨ Goals: Collaborate and work on various Open Source projects, and learn more about Game Design and Game Development.
 - ⚡ Fun fact: I think I am funny and love video games, and cupcakes 🧁!
