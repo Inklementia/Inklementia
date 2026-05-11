@@ -11,9 +11,9 @@ I am Inna and I am a BS graduate.
 
  ***
  
- ### 🎯 Some of my stats
+ ### 🎯 Itch.io
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inklementia&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+https://inklementia.itch.io/ 
  
 ***
 
